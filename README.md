@@ -1,35 +1,50 @@
 # 👋 Hi, I'm Egor Yanushkevich
 
-🎓 **Junior Java Developer** | 🧱 Full-Stack Student  
-📍 Israel | 🛠️ Open to work
+🎓 Junior Java Developer | 🧱 Full-Stack Student (Michlala Atid)  
+📍 Migdal HaEmek, Israel | 💼 Open to Work | 🧠 Learning React, SQL
 
 ---
 
 ## 🔧 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🎮 [Minesweeper Game](https://github.com/EgorYanush/minesweeper_game_java)
-> A classic minesweeper game built in Java using the JavaRush engine.  
-> Includes recursive tile opening, flagging, win/loss detection.
-
-🎯 [Play online](https://javarush.com/projects/apps/366190)
+### 📊 [SQL Crime Analysis](https://github.com/EgorYanush/sql-crime-analysis)
+> Final college project analyzing crime data in Israel (2018–2023).  
+> Used SQL to extract trends by district, quarter, and crime types.  
+> 🔍 Includes grouping, filtering, JOINs, and real-world data.
 
 ---
 
-### ❌ [Tic Tac Toe Game](https://github.com/EgorYanush/ticktacktoe_game_java)
-> Classic tic tac toe with AI opponent.  
-> The bot blocks and wins intelligently, includes draw logic.
+### 🎮 [Minesweeper (Java)](https://github.com/EgorYanush/minesweeper_game_java)
+> Classic minesweeper game built in Java using JavaRush Engine.  
+> Recursive opening, win/loss detection, flags.
 
-🎯 [Play online](https://javarush.com/projects/apps/539882)
+🎯 [Try it online](https://javarush.com/projects/apps/366190)
+
+---
+
+### ❌ [Tic Tac Toe (Java)](https://github.com/EgorYanush/ticktacktoe_game_java)
+> Simple tic-tac-toe with AI opponent and draw detection.  
+> JavaRush Game Engine used.
+
+🎯 [Play here](https://javarush.com/projects/apps/539882)
+
+---
+
+### 🕹️ [JS RPG Game](https://github.com/EgorYanush/js-rpg-game)
+> Text-based RPG built with vanilla JavaScript.  
+> Turn-based combat, inventory, gold/health system.
 
 ---
 
@@ -40,4 +55,5 @@
 
 ---
 
-🛠️ *More projects and contributions coming soon...*
+🧭 *Currently looking for a Junior Java Developer or Full-Stack Internship.*  
+📌 *Final year student at Michlala Atid (Software Engineering track).*
