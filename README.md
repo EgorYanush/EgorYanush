@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Egor Yanushkevich
 
 🎓 Junior Java Developer | 🧱 Full-Stack Student at Atid College (Israel)
-📍 Migdal HaEmek, Israel | 💼 Open to Work | 🧠 Learning React, SQL
+📍 Migdal HaEmek, Israel | 💼 Open to Work | 🧠 Learning React, SQL, JAVA
 
 ---
 
