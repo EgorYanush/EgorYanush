@@ -1,70 +1,59 @@
-# 👋 Hi, I'm Egor Yanushkevich
-
-🎓 Junior Java Developer | 🧱 Full-Stack Student at Atid College (Israel)
-📍 Migdal HaEmek, Israel | 💼 Open to Work | 🧠 Learning React, SQL, JAVA
-
----
-
-## 🔧 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+👋 Hi, I'm Egor Yanushkevich  
+🎓 Junior Java Developer | 🧱 Full-Stack Student at Atid College (Israel)  
+📍 Migdal HaEmek, Israel | 💼 Open to Work | 🧠 Learning React, SQL, Java  
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 [SQL Crime Analysis](https://github.com/EgorYanush/sql-crime-analysis)
-
-> Final college project analyzing crime data in Israel (2018–2023).
-> Used SQL to extract trends by district, quarter, and crime types.
-> 🔍 Includes grouping, filtering, JOINs, and real-world data.
+### 🔧 Tech Stack  
+Java · SQL · HTML · CSS · JavaScript · React Native · Git · GitHub  
 
 ---
 
-### 🎮 [Minesweeper (Java)](https://github.com/EgorYanush/minesweeper_game_java)
+### 🚀 Featured Projects  
 
-> Classic minesweeper game built in Java using JavaRush Engine.
-> Recursive opening, win/loss detection, flags.
+📊 **SQL Crime Analysis**  
+Final college project analyzing crime data in Israel (2018–2023).  
+Used SQL to extract trends by district, quarter, and crime types.  
+Includes grouping, filtering, JOINs, and real-world data.  
 
-🎯 [Try it online](https://javarush.com/projects/apps/366190)
-
----
-
-### ❌ [Tic Tac Toe (Java)](https://github.com/EgorYanush/ticktacktoe_game_java)
-
-> Simple tic-tac-toe with AI opponent and draw detection.
-> JavaRush Game Engine used.
-
-🎯 [Play here](https://javarush.com/projects/apps/539882)
+🎯 [View project →](https://github.com/EgorYanush/sql-crime-analysis)
 
 ---
 
-### 🎩️ [JS RPG Game](https://github.com/EgorYanush/js-rpg-game)
+🎮 **Minesweeper (Java)**  
+Classic Minesweeper game built in Java using JavaRush Engine.  
+Recursive opening, win/loss detection, and flag placement logic.  
 
-> Text-based RPG built with vanilla JavaScript.
-> Turn-based combat, inventory, gold/health system.
+🎯 [View project →](https://github.com/EgorYanush/minesweeper_game_java)
 
 ---
 
-📱 React Native Counter App  
-Simple mobile counter built with **React Native** and **Expo**.  
+❌ **Tic Tac Toe (Java)**  
+Simple Tic Tac Toe with AI opponent and draw detection.  
+Developed using JavaRush Game Engine.  
+
+🎯 [View project →](https://github.com/EgorYanush/ticktacktoe_game_java)
+
+---
+
+🎩️ **JS RPG Game**  
+Text-based RPG built with vanilla JavaScript.  
+Includes turn-based combat, inventory, gold, and health systems.  
+
+🎯 [View project →](#)
+
+---
+
+📱 **React Native Counter App**  
+Simple mobile counter built with React Native and Expo.  
 Includes increase/decrease/reset buttons, persistent storage via AsyncStorage, and OTA updates through EAS.  
 
-🎯 [View project on GitHub →](https://github.com/EgorYanush/react-native-counter-app)
-
-
-## 📬 Contact Me
-
-* 📧 [dzedoman@gmail.com](mailto:dzedoman@gmail.com)
-* 💬 [Telegram → @Stoppicj](https://t.me/Stoppicj)
+🎯 [View project →](https://github.com/EgorYanush/react-native-counter-app)
 
 ---
 
-🧽 *Currently looking for a Junior Java Developer or Full-Stack Internship.*
-📌 *Final year student at Atid College (Software Engineering track).*
+### 📬 Contact Me  
+📧 dzedoman@gmail.com  
+💬 Telegram → [@Stoppicj](https://t.me/Stoppicj)  
+🧽 Currently looking for a Junior Java Developer or Full-Stack Internship.  
+📌 Final-year student at Atid College (Software Engineering track).
