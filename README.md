@@ -52,6 +52,13 @@
 
 ---
 
+📱 React Native Counter App  
+Simple mobile counter built with **React Native** and **Expo**.  
+Includes increase/decrease/reset buttons, persistent storage via AsyncStorage, and OTA updates through EAS.  
+
+🎯 [View project on GitHub →](https://github.com/EgorYanush/react-native-counter-app)
+
+
 ## 📬 Contact Me
 
 * 📧 [dzedoman@gmail.com](mailto:dzedoman@gmail.com)
